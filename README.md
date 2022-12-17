@@ -1,1 +1,2 @@
-# DJ-Capybara
+# DJ capybara
+ My music bot
